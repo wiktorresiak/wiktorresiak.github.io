@@ -2,10 +2,9 @@
 
 ## Projekty
 
-**FrontEnd**\
-Wiele stron
+**FrontEnd**
 
-**Fotografia**\
+**Fotografia**
 
 **Montaż**
 
