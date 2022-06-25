@@ -1,12 +1,15 @@
 # Wiktor Resiak
 
 ## Projekty
-**Blender**
+**Blender**\
 Człowiek, anatomia
-**JavaScript**
+
+**JavaScript**\
 Koszyk sklepowy, sklep internetowy
-**FrontEnd**
+
+**FrontEnd**\
 Wiele stron
-**StronaKursu**
+
+**StronaKursu**\
 W trakcie
 
